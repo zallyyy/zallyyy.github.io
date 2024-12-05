@@ -1,0 +1,82 @@
+*{
+    font-family: font-family: "Dancing Script", serif;
+}
+
+header{
+    background-color: #d6e6b7;
+
+}
+
+header a{
+    color:#ea0063; 
+}
+
+.nav-item a{
+    color: #ea0063;
+}
+
+#boton-perfil{
+    background-color: #8a9b0f;
+}
+
+.nav-item a:hover{
+     color: #f1ffd5;
+}
+
+#app{
+    color: #b8136f;
+}
+
+.botoncv{
+    background-color: #b8136f;
+    color: white;
+}
+
+.caja-habilidades{
+    background-color: #f1ffd5;
+
+}
+
+#btn-contacto{
+    background-color:#b8136f;
+    color:  white ;
+}
+
+#contacto{
+    background-color: #d6e6b7;
+    color:#b8136f;
+}
+
+.btn-proyecto{
+    background-color:#8a9b0f;
+}
+
+.btn-proyecto a{
+    text-decoration: none;
+    color: #d6e6b7;
+}
+
+.card .card-title{
+    color: #b8136f;
+}
+
+#btn-contacto{
+    background-color: #8a9b0f;
+}
+
+#btn-contacto:hover{
+    background-color: #b8136f;
+}
+
+footer li a{
+    color: #ea0063;
+}
+
+footer p{
+    color: #ea0063;
+}
+
+footer p a{
+    text-decoration: none;
+    color: #ea0063;
+}
