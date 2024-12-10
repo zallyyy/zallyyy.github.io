@@ -38,13 +38,5 @@ ______
 *Correo*
 [zallethrejon@gmail.com](mailto:zallethrejon@gmail.com)
 
-[buscándose».
-(Silva Obra [Col. 1880-95])
-
-- 🙆‍♀️ **Nombre:** Zalleth Peraza
-
-- 🌍 **Ciudad:** Mérida
- 
-- 👅 **Idioma:** Inglés- Español
-
-💜
+### Creado en el bootcamp de TechnolochicasPro 💜
+[Technolochicas}(https://tecnolochicas.mx/)
