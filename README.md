@@ -22,9 +22,9 @@ ______
 
 ### Vista Previa
 
-    ![Proyecto](/assets/cover.jpg)
-    ![Proyecto](/assets/cover2.jpg)
-    ![Proyecto](/assets/cover3.jpg)
+![Proyecto](/assets/cover.jpg)
+![Proyecto](/assets/cover2.jpg)
+![Proyecto](/assets/cover3.jpg)
 
 
 <div align="center">
