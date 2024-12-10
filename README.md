@@ -39,4 +39,4 @@ ______
 [zallethrejon@gmail.com](mailto:zallethrejon@gmail.com)
 
 ### Creado en el bootcamp de TechnolochicasPro 💜
-[Technolochicas}(https://tecnolochicas.mx/)
+[Technolochicas](https://tecnolochicas.mx/)
