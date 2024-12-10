@@ -36,7 +36,7 @@ ______
 
 ### *Espero pronto saber de ti*
 *Correo*
-[anelmontesdeoca0@gmail.com](mailto:zallethrejon@gmail.com)
+[zallethrejon@gmail.com](mailto:zallethrejon@gmail.com)
 
 [buscándose».
 (Silva Obra [Col. 1880-95])
